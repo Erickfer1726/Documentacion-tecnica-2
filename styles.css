@@ -7,7 +7,6 @@
 body {
   font-size: 16px;
   font-weight: normal;
-  background: url('https://i2.wp.com/www.mundoinsider.com/wp-content/uploads/sites/9/2021/07/adobe.jpg?fit=2048%2C1365&ssl=1') no-repeat;
   font-family: "Open Sans", Arial, sans-serif;
 }
 
@@ -25,7 +24,7 @@ main {
   display: flex;
   position: fixed;
   flex-direction: column;
-  border-right: 3px solid #000000;
+  border-right: 3px solid #2f00ff;
   height: 100vh;
 }
 
@@ -38,9 +37,9 @@ main {
   display: flex;
   padding: 17px 45px 17px 45px;
   padding-left: 30px;
-  border-top: 1px solid black;
+  border-top: 1px solid rgb(4, 0, 255);
   text-decoration: none;
-  color: #000000;
+  color: #0400ff;
   cursor: pointer;
   background: rgb(153, 153, 153);
 }
@@ -48,7 +47,7 @@ main {
 .contenedor-principal {
   margin-left: 315px;
   padding: 25px;
-  color: #000000;
+  color: #0400ff;
 }
 
 .main-section {
